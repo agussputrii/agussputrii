@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Agustin!</h1>
 <h3 align="center">A passionate Fullstack Developer Jr from Argentina!</h3>
 
-- 🌱 I’m currently learning **React, NodeJS, VueJS, Angular and R!**
+- 🌱 I’m currently learning **React, NodeJS, MongoDB, VueJS, Angular and R!**
 
-- 👨‍💻 All of my projects (for now) are available at [https://github.com/agussputrii](https://github.com/agussputrii)
+- 👨‍💻 All of my projects (for now) are available at  my profile! [https://github.com/agussputrii](https://github.com/agussputrii)
 
 - 💬 Ask me about **Java, Python, MYSQL, HTML, CSS, Javascript, Spring, Bootstrap, Git, Github**
 
